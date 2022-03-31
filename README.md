@@ -1,4 +1,4 @@
-![Cover](https://github.com/ShiNoragami/Projet_05_OC/blob/master/todo.png)
+![Cover](https://github.com/sadlah75/Projet_05_OC/blob/master/todo.png)
 # Todoc Application
 
 Projet 5 dans le cadre de la formation Développeur Android - OpenClassrooms.
